@@ -5,4 +5,4 @@ Atcoder 230に関するコード
 https://atcoder.jp/contests/abc230/tasks
 
 ## 参考記事
-
+https://kuroro.blog/atcoder/wirf6urJ8RnlkXTrswcd/
